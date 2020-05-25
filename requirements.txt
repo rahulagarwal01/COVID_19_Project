@@ -7,6 +7,4 @@ statsmodels
 pmdarima
 matplotlib
 ipywidgets
-future
-seaborn
-ipython
+
