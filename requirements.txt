@@ -1,10 +1,6 @@
 voila
 voila-material
 folium
-future
-seaborn
-ipython
-matplotlib
 cufflinks
 plotly
 statsmodels
