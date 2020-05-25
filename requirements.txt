@@ -5,3 +5,5 @@ ipympl
 plotly==4.7.1
 folium
 ipywidgets
+pmdarima
+statsmodel
